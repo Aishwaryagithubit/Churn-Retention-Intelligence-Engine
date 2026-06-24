@@ -1,8 +1,6 @@
 # Churn-Retention-Intelligence-Engine
 Predicting Customer Churn &amp; Designing Data-Driven Retention Strategies
 
-# Retention Intelligence Engine
-
 ### Customer Churn Analytics & Revenue Retention Strategy
 
 > End-to-end data analytics project focused on identifying churn drivers, customer behavior patterns, and designing business strategies to improve long-term retention and recurring revenue.
